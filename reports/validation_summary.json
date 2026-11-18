@@ -1,0 +1,217 @@
+{
+  "RELIANCE.NS": {
+    "before": {
+      "ticker": "RELIANCE.NS",
+      "total_records": 2932,
+      "columns_present": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Adj Close",
+        "Volume",
+        "Ticker"
+      ],
+      "missing_fields": [],
+      "null_counts": {
+        "Date": 0,
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Adj Close": 0,
+        "Volume": 0,
+        "Ticker": 0
+      },
+      "duplicate_dates_count": 0,
+      "invalid_prices_count": 0,
+      "price_logic_violations": 0,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17",
+      "calendar_days": 4339,
+      "trading_days": 2932
+    },
+    "after": {
+      "ticker": "RELIANCE.NS",
+      "processed_records": 2932,
+      "valid_log_returns": 2931,
+      "valid_forward_vol_targets": 2927,
+      "final_unobserved_future_targets": 5,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17"
+    }
+  },
+  "HDFCBANK.NS": {
+    "before": {
+      "ticker": "HDFCBANK.NS",
+      "total_records": 2932,
+      "columns_present": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Adj Close",
+        "Volume",
+        "Ticker"
+      ],
+      "missing_fields": [],
+      "null_counts": {
+        "Date": 0,
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Adj Close": 0,
+        "Volume": 0,
+        "Ticker": 0
+      },
+      "duplicate_dates_count": 0,
+      "invalid_prices_count": 0,
+      "price_logic_violations": 0,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17",
+      "calendar_days": 4339,
+      "trading_days": 2932
+    },
+    "after": {
+      "ticker": "HDFCBANK.NS",
+      "processed_records": 2932,
+      "valid_log_returns": 2931,
+      "valid_forward_vol_targets": 2927,
+      "final_unobserved_future_targets": 5,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17"
+    }
+  },
+  "INFY.NS": {
+    "before": {
+      "ticker": "INFY.NS",
+      "total_records": 2932,
+      "columns_present": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Adj Close",
+        "Volume",
+        "Ticker"
+      ],
+      "missing_fields": [],
+      "null_counts": {
+        "Date": 0,
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Adj Close": 0,
+        "Volume": 0,
+        "Ticker": 0
+      },
+      "duplicate_dates_count": 0,
+      "invalid_prices_count": 0,
+      "price_logic_violations": 0,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17",
+      "calendar_days": 4339,
+      "trading_days": 2932
+    },
+    "after": {
+      "ticker": "INFY.NS",
+      "processed_records": 2932,
+      "valid_log_returns": 2931,
+      "valid_forward_vol_targets": 2927,
+      "final_unobserved_future_targets": 5,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17"
+    }
+  },
+  "ICICIBANK.NS": {
+    "before": {
+      "ticker": "ICICIBANK.NS",
+      "total_records": 2932,
+      "columns_present": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Adj Close",
+        "Volume",
+        "Ticker"
+      ],
+      "missing_fields": [],
+      "null_counts": {
+        "Date": 0,
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Adj Close": 0,
+        "Volume": 0,
+        "Ticker": 0
+      },
+      "duplicate_dates_count": 0,
+      "invalid_prices_count": 0,
+      "price_logic_violations": 0,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17",
+      "calendar_days": 4339,
+      "trading_days": 2932
+    },
+    "after": {
+      "ticker": "ICICIBANK.NS",
+      "processed_records": 2932,
+      "valid_log_returns": 2931,
+      "valid_forward_vol_targets": 2927,
+      "final_unobserved_future_targets": 5,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17"
+    }
+  },
+  "TCS.NS": {
+    "before": {
+      "ticker": "TCS.NS",
+      "total_records": 2932,
+      "columns_present": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Adj Close",
+        "Volume",
+        "Ticker"
+      ],
+      "missing_fields": [],
+      "null_counts": {
+        "Date": 0,
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Adj Close": 0,
+        "Volume": 0,
+        "Ticker": 0
+      },
+      "duplicate_dates_count": 0,
+      "invalid_prices_count": 0,
+      "price_logic_violations": 0,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17",
+      "calendar_days": 4339,
+      "trading_days": 2932
+    },
+    "after": {
+      "ticker": "TCS.NS",
+      "processed_records": 2932,
+      "valid_log_returns": 2931,
+      "valid_forward_vol_targets": 2927,
+      "final_unobserved_future_targets": 5,
+      "start_date": "2015-01-01",
+      "end_date": "2026-11-17"
+    }
+  }
+}
